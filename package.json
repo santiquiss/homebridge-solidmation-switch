@@ -1,22 +1,12 @@
 {
-  "name": "homebridge-solidmation-switch",
+  "name": "homebridge-solidmation-switch-23",
   "keywords": [
     "homebridge-plugin"
   ],
   "version": "1.0.0",
   "description": "Solidmation Switch plugin for homebridge",
   "main": "index.js",
-  "author": "Ariel Sanchez <sanchez.ariel@gmail.com>",
-  "contributors": [
-    {
-      "name": "Roberto González",
-      "email": "robert@aerolab.co"
-    },
-    {
-      "name": "Sergio Behrends",
-      "email": "sergio@behrends.com.ar"
-    }
-  ],
+  "author": "Santiago Quiss <santiquiss@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "request": "^2.79.0"
